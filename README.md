@@ -1,2 +1,2 @@
 # my repo is now updated
-This is a nice repo
+This is a nice repo updated
